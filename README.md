@@ -30,7 +30,7 @@ spec:
         - 'Typescript'
         - 'Python'
         - 'Go'
-  goals: "DevOps Engineer",
+  goals: "DevOps Engineer"
   cloudPlatforms:
     - "aws"
     - "Digital Ocean"
