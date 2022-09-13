@@ -51,5 +51,5 @@ spec:
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunojhovany&layout=compact&theme=dracula&hide=php)](https://github.com/brunojhovany)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunojhovany&layout=compact&theme=dracula&hide=php,html,css)](https://github.com/brunojhovany)
 
