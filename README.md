@@ -52,4 +52,5 @@ spec:
 </p>
 
 ### My Coding Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojhovany&theme=algolia"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunojhovany&layout=compact)](https://github.com/brunojhovany)
+
