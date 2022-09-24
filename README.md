@@ -24,12 +24,12 @@ spec:
       labels:
         app: AboutME
     spec:
-      pronouns: "he|his"
-      languages:
-        - 'Javascript'
-        - 'Typescript'
-        - 'Python'
-        - 'Go'
+      pronouns: "he/his"
+      languages: 
+        - "Javascript"
+        - "Typescript"
+        - "Python"
+        - "Go"
   goals: "DevOps Engineer"
   cloudPlatforms:
     - "aws"
