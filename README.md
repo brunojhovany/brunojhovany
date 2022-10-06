@@ -51,6 +51,7 @@ spec:
   </a>
 </p>
 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunojhovany&theme=dracula&layout=compact&langs_count=8&count_private=true&show_icons=true&hide=php,html,css)](https://github.com/brunojhovany)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunojhovany&theme=dracula&layout=compact&langs_count=8&count_private=true&show_icons=true&hide=php,html,css)](https://github.com/brunojhovany)
+-->
 
 ![gopher dancing](https://github.com/bashbunni/bashbunni/blob/main/dancing-gopher.gif)
