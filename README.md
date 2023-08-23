@@ -47,7 +47,7 @@ spec:
 ## :hammer_and_wrench: Tools and Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,terraform,fedora,docker,bash,python,go,linux,git,jenkins,grafana,aws,vim,vscode,visualstudio,angular,nestjs,mongodb,firebase,nodejs,express,flask,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,bash,python,go,linux,git,jenkins,grafana,aws,vim,vscode,visualstudio,angular,nestjs,mongodb,firebase,nodejs,express,flask,raspberrypi" />
   </a>
 </p>
 
