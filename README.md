@@ -26,20 +26,20 @@ spec:
     spec:
       pronouns: "he/his"
       languages: 
+        - "Go"
+        - "Python"
         - "Javascript"
         - "Typescript"
-        - "Python"
-        - "Go"
+      scriptingLanguages:
+        - "Bash"
   goals: "DevOps Engineer"
   cloudPlatforms:
     - "aws"
+    - "GCP"
     - "Digital Ocean"
-    - "Google Cloud"
-  architecture: 
-    - "microservices"
 ```
 
-  - :man_student: I am a `Graduate` of Technological Institute of Tuxtla Gutierrez Chiapas.
+  - :man_student: I am a `Graduate` of Instituto Tecnologico de Tuxtla Gutierrez Chiapas.
   - :man_scientist: I am a `Computer Systems Engineering`
   - :man_technologist: I love to `Automate` stuff using softwares
   - :man_office_worker: I am `Hard Working` and love to `Learn` new interesting things
